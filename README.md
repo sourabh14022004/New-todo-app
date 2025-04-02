@@ -22,7 +22,7 @@ Delete Functionality with hover effects
 
 # 🚀 Live Demo
 
-# View Live Demo 
+# [View Live Demo](https://new-todo-app-sandy.vercel.app/)
 
 🛠️ Technologies Used
 
